@@ -1,0 +1,59 @@
+#EXTM3U list-name="Peliculas de Estreno Audio Latino" list-image="https://i.ibb.co/rsd6VQp/Movies.png" author="AJSkywalkerP1" author-url=""
+
+
+#EXTINF:-1 tvg-logo="https://moviepostermexico.com/cdn/shop/files/barbie_ver2_xxlg_1024x1024@2x.jpg?v=1689300572" tvg-group="ESTRENO", Barbie 2023 
+https://archive.org/download/barbie-1080p/Barbie%201080p.mp4
+
+#EXTINF:-1 tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/strays/posters/01.jpg" tvg-group="ESTRENO", Hijos de Perra (Strays) (2023) 
+https://cdn27.tokyvideo.com/videos/328/328498/mp4/be5e76d24467168308022c7528614252fa9e1e06080c7b4cf896873b6562e557.mp4?nva=20230919181451&nvb=20230917181451&token=05c98948a3408b2378338
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg" tvg-group="ESTRENO", Tortugas Ninja Caos Mutante (2023) 
+https://cdn27.tokyvideo.com/videos/329/329357/mp4/2aa982b5eab4692302f217053580a2fd9d9a2690e9b4877d67a37941fbae3060.mp4?nva=20230919184629&nvb=20230917184629&token=08fcbe979bd6dd41073d5
+
+#EXTINF:-1 tvg-logo="https://cartelerasdecine.info/wp-content/uploads/2023/08/Poster-Megalodon-2-El-gran-abismo.jpeg" tvg-group="ESTRENO", MEGALODON 2 (2023) 
+https://cdn25.tokyvideo.com/videos/321/321236/mp4/e32ee1ac44f269d2688051af7eeb31f00b5db17639f2a510ad2e51f149360b6c.mp4?nva=20230919184800&nvb=20230917184800&token=013f3e38fa8a5aae65fa4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f3/Sonido_de_Libertad_Doblaje.jpg/revision/latest?cb=20230811214919&path-prefix=es" tvg-group="ESTRENO", El Sonido de la Libertad (HDCAM) (2023) 
+https://cdn29.tokyvideo.com/videos/334/334361/mp4/643303cf07c065420e0e4db7fe0d2ffea23bd887b8021e0cb031e3664e4dee63.mp4?nva=20230919184908&nvb=20230917184908&token=06424772131f6f54c62aa
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fh9BzvZX0AEkq3X.jpg" tvg-group="ESTRENO", Elementos (2023) 
+https://cdn28.tokyvideo.com/videos/333/333682/mp4/0efeccb175156da8e58f4414bfc2efa4e806f85acb2a4ce6599f2c0e1ac6e15d.mp4?nva=20230919185058&nvb=20230917185058&token=0282bf4fbe7f5e0a5c28b
+
+#EXTINF:-1 tvg-logo="https://statics.cinemex.com/movie_posters/FP4v72XLfax8EZT-750x1125.jpg" tvg-group="ESTRENO", La Noche del Demonio 5 (2023) 
+https://cdn23.tokyvideo.com/videos/316/316273/mp4/fbcbaec264eb79fc371866eb50b987391d78166ce64837595146e12869342b0b.mp4?nva=20230919185239&nvb=20230917185239&token=08bb13ec6af095aeb8766
+
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/screenshot/default/imagen-2023-02-14-111503094_276j.600.jpg" tvg-group="ESTRENO", The Flash (2023) 
+https://cdn18.tokyvideo.com/videos/294/294606/mp4/32cb1157f6382ffebeb1f643530d6d56490ce22ebee9ec26e3c5693d02f59464.mp4?nva=20230919185419&nvb=20230917185419&token=083b9252a6d792a47e988
+
+#EXTINF:-1 tvg-logo="https://www.lahiguera.net/cinemania/pelicula/10330/halloween_el_final-cartel-10575.jpg" tvg-group="SAGA HALLOWEEN", Halloween Ends (2022) 
+https://cdn12.tokyvideo.com/videos/208/208728/mp4/eb81bde8130934e86b9310a5956cba60634b1a3646e88bc555566c8daa1a1160.mp4?nva=20230919185549&nvb=20230917185549&token=027dbc065dfa18d4b282d
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/pO39MWOrEmJYthKyWT79BYCVRrO.jpg" tvg-group="SAGA SCREAM", Scream (1996) 
+https://cdn10.tokyvideo.com/videos/280/280677/mp4/f22d1291abf2e707a16a14e8251ed351f8271d53ccf26e9b3c3f936bfb07d66d.mp4?nva=20230919185745&nvb=20230917185745&token=0d72f20b401903242e4f8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/617yu+n28gL._AC_UF894,1000_QL80_.jpg" tvg-group="SAGA SCREAM", Scream 2 (1997) 
+https://cdn13.tokyvideo.com/videos/225/225778/mp4/287a69ead226361f2453432d64fcf4321b93a55e3d392ecd0ceb04ec5a420cbb.mp4?nva=20230919185904&nvb=20230917185904&token=08ba136a5ac1efefca50c
+
+#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/1cf05100-0000-0000-0000-000000000002/504/image.jpg" tvg-group="SAGA SCREAM", Scream 3 (2000) 
+https://cdn13.tokyvideo.com/videos/225/225784/mp4/473390bcd61599dc5ec8f13ea7dea24fef1c6ca77d7f5bca46abf76f5eab2a6c.mp4?nva=20230919190056&nvb=20230917190056&token=0bc836a006e2aff7b765e
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/618P2Dm-FNL._AC_UF894,1000_QL80_.jpg" tvg-group="SAGA SCREAM", Scream 4 (2011) 
+https://cdn13.tokyvideo.com/videos/225/225790/mp4/5fb39261d03583bca1ebb226c1483b304c3a2f578fee05e82a1d8393e966ef6e.mp4?nva=20230919184412&nvb=20230917184412&token=039ae06211b20c4e118dd
+
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/16400/16466/002_m.jpg" tvg-group="SAGA SCREAM", Scream 5 (2022) 
+https://cdn10.tokyvideo.com/videos/280/280686/mp4/0111411c93d1e6a3accba9fd2b2acb14c97b28c3eacfc8499c4f7dda1f35874e.mp4?nva=20230919190326&nvb=20230917190326&token=0c87f1ad007b6d07b6a0a
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Scream_VI-826495425-large.jpg" tvg-group="SAGA SCREAM", Scream 6 (2023) 
+https://cdn10.tokyvideo.com/videos/281/281007/mp4/46567b9aa762aa2abd135e355e9860b32cd588f501a3e92e53cf67a32e0f767c.mp4?nva=20230919190449&nvb=20230917190449&token=0870923489e555a94cb53
+
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/TaoAAOSwPjZf1WHW/s-l1600.jpg" tvg-group="SAGA SHREK", Shrek (2001) 
+https://cdn18.tokyvideo.com/videos/293/293655/mp4/5339d68e43871c76834dd39a1e94f396b0653ef06c494693258f8fa267c9ffc4.mp4?nva=20230919190612&nvb=20230917190612&token=099ecd56936fa6fb37d1c
+
+#EXTINF:-1 tvg-logo="https://static.posters.cz/image/1300/posters/shrek-2-one-sheet-i653.jpg" tvg-group="SAGA SHREK", Shrek 2 (2004) 
+https://cdn23.tokyvideo.com/videos/314/314648/mp4/d37347a614a95bbea722285f08f29bf60e1f8d0a8bbb35edea1a09f41085c126.mp4?nva=20230919190716&nvb=20230917190716&token=09f7fd9d4f0d38a8a0804
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/23/20/20054548.jpg" tvg-group="SAGA SHREK", Shrek Tercero (2007) 
+https://cdn20.tokyvideo.com/videos/303/303306/mp4/2af3bb3dba065080807598d55b9a1a92d4aa563f65d1aef1676d6ae163ddab11.mp4?nva=20230919185921&nvb=20230917185921&token=002b036881518087ec345
+
+#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/f65d0900-0000-0000-0000-000000000002/504/image.jpg" tvg-group="SAGA SHREK", Shrek Felices Para Siempre (2010) 
+https://cdn23.tokyvideo.com/videos/314/314648/mp4/d37347a614a95bbea722285f08f29bf60e1f8d0a8bbb35edea1a09f41085c126.mp4?nva=20230919190716&nvb=20230917190716&token=09f7fd9d4f0d38a8a0804
